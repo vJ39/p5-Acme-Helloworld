@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::Helloworld.
+
+0.01  Tue Oct 22 04:50:10 2013
+	- original version; created by h2xs 1.23 with options
+		-A -n Acme::Helloworld
+
